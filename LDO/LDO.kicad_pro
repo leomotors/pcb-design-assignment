@@ -171,10 +171,7 @@
       ],
       "track_widths": [
         0.0,
-        0.3,
-        0.35,
-        0.5,
-        1.0
+        0.5
       ],
       "via_dimensions": [
         {
@@ -407,7 +404,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Assignment1.kicad_pro",
+    "filename": "LDO.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -472,14 +469,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -492,7 +481,7 @@
   },
   "sheets": [
     [
-      "71faa15b-6041-4c80-b733-05ea182bbb89",
+      "5831b4b3-4743-40ee-bb56-cb67447e11ec",
       ""
     ]
   ],

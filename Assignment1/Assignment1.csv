@@ -6,7 +6,7 @@
 "5","C12","1","22pF","Capacitor_SMD:C_0603_1608Metric",""
 "6","C13","1","1 uF","Capacitor_SMD:C_0603_1608Metric",""
 "7","Cbyp1","1","470 nF","Capacitor_SMD:C_0603_1608Metric",""
-"8","J1, J2","2","Conn_01x02_Pin","TerminalBlock_Dinkle:TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm",""
+"8","J1, J2","2","Conn_01x02_Pin","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical",""
 "9","L1","1","1.5uH","Inductor_SMD:L_1210_3225Metric",""
 "10","R1, R5","2","0","Resistor_SMD:R_0603_1608Metric",""
 "11","R3","1","100 k","Resistor_SMD:R_0603_1608Metric",""
