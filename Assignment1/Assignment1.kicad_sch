@@ -5619,10 +5619,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4eca3920-a7f2-41c4-9f8a-cdaea3916082")
 		(property "Reference" "C8"
-			(at 123.19 90.1699 0)
+			(at 120.904 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5630,8 +5629,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 123.19 92.7099 0)
+		(property "Value" "22uF"
+			(at 120.396 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9035,10 +9034,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "984da5df-9a29-44a4-8540-bec2bea9f64a")
 		(property "Reference" "C7"
-			(at 116.84 90.1699 0)
+			(at 113.792 89.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9046,8 +9044,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 116.84 92.7099 0)
+		(property "Value" "22uF"
+			(at 113.538 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9456,10 +9454,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a8e1490f-5ec1-4dbb-8f95-5f4ceca1ac04")
 		(property "Reference" "C3"
-			(at 138.43 90.1699 0)
+			(at 136.398 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9467,8 +9464,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 138.43 92.7099 0)
+		(property "Value" "22uF"
+			(at 136.398 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10011,10 +10008,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "afdcb51b-fd29-43ec-8dc2-7f77cdb85f0e")
 		(property "Reference" "C2"
-			(at 129.54 90.1699 0)
+			(at 127.254 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10022,8 +10018,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 129.54 92.7099 0)
+		(property "Value" "22uF"
+			(at 126.746 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
