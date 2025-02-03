@@ -2,7 +2,7 @@
 "C1,C6","0.1uF","~","Capacitor_SMD:C_0603_1608Metric","2",""
 "C2,C3,C7,C8","22uF","~","Capacitor_SMD:C_1210_3225Metric","4",""
 "C4,C5","10uF","~","Capacitor_SMD:C_1206_3216Metric","2",""
-"C12","22pF","~","Capacitor_SMD:C_1210_3225Metric","1",""
+"C12","22pF","~","Capacitor_SMD:C_0603_1608Metric","1",""
 "C13,Cin2","1uF","~","Capacitor_SMD:C_0603_1608Metric","2",""
 "Cbyp2","47uF","~","Capacitor_SMD:C_1206_3216Metric","1",""
 "J1,J2","Conn_01x02_Pin","~","5EHDVC-02P-KiCad:5EHDVC02P","2",""
