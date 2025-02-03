@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5EHDVC-02P
+D 2 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.197" (5.00mm) Vertical Through Hole , 18A , 630V , -40C ~ 120C
+K
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=349
+$ENDCMP
+#
+#End Doc Library
