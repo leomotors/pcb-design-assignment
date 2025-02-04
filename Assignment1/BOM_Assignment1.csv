@@ -1,15 +1,22 @@
-"Reference","Value","Datasheet","Footprint","Qty","DNP"
-"C1,C6","0.1uF","~","Capacitor_SMD:C_0603_1608Metric","2",""
-"C2,C3,C7,C8","22uF","~","Capacitor_SMD:C_1210_3225Metric","4",""
-"C4,C5","10uF","~","Capacitor_SMD:C_1206_3216Metric","2",""
-"C12","22pF","~","Capacitor_SMD:C_0603_1608Metric","1",""
-"C13,Cin2","1uF","~","Capacitor_SMD:C_0603_1608Metric","2",""
-"Cbyp2","47uF","~","Capacitor_SMD:C_1206_3216Metric","1",""
-"J1,J2","Conn_01x02_Pin","~","5EHDVC-02P-KiCad:5EHDVC02P","2",""
-"L1","1.5uH","~","Inductor_SMD:L_1210_3225Metric","1",""
-"R1,R5","0","~","Resistor_SMD:R_0603_1608Metric","2",""
-"R3","100k","~","Resistor_SMD:R_0603_1608Metric","1",""
-"R4","110k","~","Resistor_SMD:R_0603_1608Metric","1",""
-"R6","20k","~","Resistor_SMD:R_0603_1608Metric","1",""
-"U1","TPS51386RJNR","","TPS51386RJNR:VREG_TPS51386RJNR","1",""
-"U3","~","https://atta.szlcsc.com/upload/public/pdf/source/20180803/C262534_08A27FEFAF33BE391C42286BA822D5C0.pdf","Package_TO_SOT_SMD:TO-263-3_TabPin2","1",""
+Reference,Value,Datasheet,Footprint,Qty,DNP,Description,Suppiler link,Price per unit,Note
+"C1,C6",0.1uF,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10B104KB8NNNC_Spec.pdf,Capacitor_SMD:C_0603_1608Metric,10,,0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric),https://www.digikey.co.th/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNNC/3886658,$0.02,Actual Qty = 2 but buying as 10 is equally cheap.
+"C2,C3,C7,C8",22uF,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/797/CL32B226KAJNNNE_Spec.pdf,Capacitor_SMD:C_1210_3225Metric,4,,22 µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric),https://www.digikey.co.th/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050,$0.54,
+"C4,C5",10uF,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL31B106KAHNFNE_Spec.pdf,Capacitor_SMD:C_1206_3216Metric,2,,10 µF ±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric),https://www.digikey.co.th/en/products/detail/samsung-electro-mechanics/CL31B106KAHNFNE/3888758,$0.17,
+C12,22pF,https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf,Capacitor_SMD:C_0603_1608Metric,1,,"22 pF ±10% 25V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)",https://www.digikey.co.th/en/products/detail/kemet/C0603C220K3GACTU/2200193,$0.10,
+"C13,Cin2",1uF,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10B105KA8NFNC_Spec.pdf,Capacitor_SMD:C_0603_1608Metric,10,,1 µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric),https://www.digikey.co.th/en/products/detail/samsung-electro-mechanics/CL10B105KA8NFNC/3887600,$0.03,Actual Qty = 2 but buying as 10 is equally cheap.
+Cbyp2,47uF,https://datasheets.kyocera-avx.com/TLJ.pdf,Capacitor_SMD:C_1206_3216Metric,1,,"	
+47 µF Molded Tantalum Capacitors 10 V 1206 (3216 Metric) 600mOhm",https://www.digikey.co.th/en/products/detail/kyocera-avx/TLJA476M010R0600/3068502,$0.72,
+"J1,J2",Conn_01x02_Pin,https://www.es.co.th/Schemetic/PDF/5EHDVC.PDF,5EHDVC-02P-KiCad:5EHDVC02P,2,,"
+Plug-in Terminal Block 2pins,Male,300V/15A Pitch 5.00mm",https://www.es.co.th/detail.asp?Prod=000501133,$0.17,
+L1,1.5uH,https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0019.pdf,Inductor_SMD:L_1210_3225Metric,1,,"	
+1.5 µH Shielded Drum Core, Wirewound Inductor 3 A 48mOhm Max 1210 (3225 Metric)",https://www.digikey.co.th/en/products/detail/murata-electronics/DFE322512F-1R5M-P2/9815913,$0.55,
+"R1,R5",0,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf,Resistor_SMD:R_0603_1608Metric,10,,0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film,https://www.digikey.co.th/en/products/detail/panasonic-electronic-components/ERJ-3GEY0R00V/135656,$0.03,Actual Qty = 2 but buying as 10 is equally cheap.
+R3,100k,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,Resistor_SMD:R_0603_1608Metric,1,,"	
+100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film",https://www.digikey.co.th/en/products/detail/panasonic-electronic-components/ERJ-3EKF1003V/196075,$0.10,
+R4,110k,https://www.vishay.com/docs/28773/crcwce3.pdf,Resistor_SMD:R_0603_1608Metric,1,,"110 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film",https://www.digikey.co.th/en/products/detail/vishay-dale/CRCW0603110KFKEAC/7924106,$0.10,
+R6,20k,https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf,Resistor_SMD:R_0603_1608Metric,1,,"20 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film",https://www.digikey.co.th/en/products/detail/panasonic-electronic-components/ERJ-3EKF2002V/196202,$0.10,
+U1,TPS51386RJNR,https://www.ti.com/lit/ds/symlink/tps51386.pdf?ts=1703257830548&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTPS51386RJNR%2526nr%253D3,TPS51386RJNR:VREG_TPS51386RJNR,1,,"	
+Buck Switching Regulator IC Positive Adjustable 4.5V to 24V Input, 8A",https://www.digikey.co.th/en/products/detail/texas-instruments/TPS51386RJNR/21521221,$0.78,
+U3,~,https://www.lcsc.com/datasheet/lcsc_datasheet_2409291004_HTC-Korea-TAEJIN-Tech-LM39300R-3-3_C262534.pdf,Package_TO_SOT_SMD:TO-263-3_TabPin2,1,,"3A Fixed 3.3V Positive electrode 20V TO-263-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",https://www.lcsc.com/product-detail/Others_HTC-Korea-TAEJIN-Tech_LM39300R-3-3_HTC-Korea-TAEJIN-Tech-LM39300R-3-3_C262534.html,$0.92,
+,,,,,,,,,
+,,,,,,,Total cost,$6.96,

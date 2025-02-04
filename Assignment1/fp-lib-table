@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "momoi-n.preety")(type "KiCad")(uri "${KIPRJMOD}/momoi-n.preety")(options "")(descr ""))
+)
