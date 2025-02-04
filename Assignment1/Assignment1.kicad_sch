@@ -2132,7 +2132,7 @@
 		)
 		(uuid f62e0839-b42e-4401-a37a-19a42cba247d)
 	)
-	(text "Buck Module\nConverts 6-24V to 5.1V with a maximum output current of 8A"
+	(text "Buck Module\nConverts 6-24V to 3.9V with a maximum output current of 8A"
 		(exclude_from_sim no)
 		(at 58.42 19.05 0)
 		(effects
@@ -2372,7 +2372,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1μF"
 			(at 77.47 39.116 90)
 			(effects
 				(font
@@ -3276,7 +3276,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10μF"
 			(at 90.424 30.48 0)
 			(effects
 				(font
@@ -5625,7 +5625,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22μF"
 			(at 120.396 93.726 0)
 			(effects
 				(font
@@ -7159,7 +7159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "0.1μF"
 			(at 101.6 30.4799 0)
 			(effects
 				(font
@@ -8133,7 +8133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10μF"
 			(at 80.01 30.4799 0)
 			(effects
 				(font
@@ -8553,7 +8553,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5uH"
+		(property "Value" "1.5μH"
 			(at 96.52 80.01 90)
 			(effects
 				(font
@@ -9039,7 +9039,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22μF"
 			(at 113.538 93.726 0)
 			(effects
 				(font
@@ -9459,7 +9459,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22μF"
 			(at 136.398 93.98 0)
 			(effects
 				(font
@@ -10013,7 +10013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22μF"
 			(at 126.746 93.726 0)
 			(effects
 				(font
@@ -10500,7 +10500,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "0.1μF"
 			(at 81.28 71.12 90)
 			(effects
 				(font
@@ -10920,7 +10920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "47μF"
 			(at 220.98 59.6899 0)
 			(effects
 				(font
@@ -11408,7 +11408,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1μF"
 			(at 199.39 50.7999 0)
 			(effects
 				(font
