@@ -18497,6 +18497,30 @@
 		(layer "Edge.Cuts")
 		(uuid "41f68f6c-01bd-4fdd-9187-5cc70415f9ef")
 	)
+	(gr_text "Vout\n"
+		(at 56.5 57 0)
+		(layer "F.Paste")
+		(uuid "a733df9f-1ef9-4350-8931-c092ae81c644")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Vin"
+		(at 95 57.5 0)
+		(layer "F.Paste")
+		(uuid "ee1905a5-ac22-4866-9e89-38b59aab99b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Two-Stage Voltage Converter"
 		(at 66 98.5 0)
 		(layer "F.SilkS")
@@ -21319,12 +21343,20 @@
 		(uuid "08a21cd1-3e88-45f6-9d44-9b8a82e6ec7f")
 	)
 	(segment
-		(start 94.525 76.975)
+		(start 94.525 75.975)
 		(end 94.525 75)
-		(width 0.3)
+		(width 0.35)
 		(layer "F.Cu")
 		(net 9)
-		(uuid "3b5fc330-0dfa-4199-ac14-c70895dc1919")
+		(uuid "57b4b1f1-a666-483f-9e79-3a966abef3f8")
+	)
+	(segment
+		(start 90.5 77)
+		(end 93.5 77)
+		(width 0.35)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "599b96ed-77ab-41f2-b2cb-a0e3d7750d5b")
 	)
 	(segment
 		(start 90.4 76.15)
@@ -21335,20 +21367,12 @@
 		(uuid "bf79aff9-035d-43ed-bbed-bb3ae042ce0c")
 	)
 	(segment
-		(start 94.5 77)
-		(end 94.525 76.975)
-		(width 0.3)
+		(start 93.5 77)
+		(end 94.525 75.975)
+		(width 0.35)
 		(layer "F.Cu")
 		(net 9)
-		(uuid "c97d5ab1-34bb-4e14-8af5-a09437e94acd")
-	)
-	(segment
-		(start 90.5 77)
-		(end 94.5 77)
-		(width 0.3)
-		(layer "F.Cu")
-		(net 9)
-		(uuid "e6714e51-6246-4911-aef9-33b43af2d71c")
+		(uuid "c95248f7-1483-45ec-a471-118966a8b9db")
 	)
 	(segment
 		(start 93.5 68.5)
