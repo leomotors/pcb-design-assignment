@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VEML6040")(type "KiCad")(uri "${KIPRJMOD}/Lib/VEML6040")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "${KIPRJMOD}/Lib/ABM8-272-T3")(options "")(descr ""))
+)
