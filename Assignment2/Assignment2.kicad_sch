@@ -5706,7 +5706,7 @@
 		)
 		(uuid "84172bb5-c3f7-48a0-a6db-7a5ff358a983")
 	)
-	(text "Decoupling (C19) and RF Filter (C20) capacitor\nshould be closest to the microphone\nand use short, wide trace to minimize inductance."
+	(text "Decoupling (C19) and RF Filter (C20) capacitor\nshould be close to the microphone (RF Filter be closest)\nand use short, wide trace to minimize inductance."
 		(exclude_from_sim no)
 		(at 241.554 67.056 0)
 		(effects
