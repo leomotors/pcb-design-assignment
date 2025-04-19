@@ -14731,6 +14731,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 85.09 168.91)
+		(size 210.82 111.76)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aeb6e1f0-0930-4dfd-98fe-67afee672a79")
+		(property "Sheetname" "USB Hub"
+			(at 85.09 168.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 85.09 281.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FinalProject"
+				(path "/ec64d11f-31de-42eb-b4e8-dd7a6ad77b85"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

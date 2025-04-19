@@ -113,6 +113,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -701,6 +702,10 @@
     [
       "ec64d11f-31de-42eb-b4e8-dd7a6ad77b85",
       "Root"
+    ],
+    [
+      "aeb6e1f0-0930-4dfd-98fe-67afee672a79",
+      "USB Hub"
     ]
   ],
   "text_variables": {}
