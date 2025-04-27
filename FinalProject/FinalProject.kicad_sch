@@ -16341,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ABLS-25.000MHZ-B2F-T:XTAL_ABLS-25.000MHZ-B2F-T"
+		(property "Footprint" "ABLS_25_000MHZ_B2F_T:XTAL_ABLS-25.000MHZ-B2F-T"
 			(at 256.54 229.87 0)
 			(effects
 				(font
@@ -19504,7 +19504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10152803-00011LF:AMPHENOL_10152803-00011LF"
+		(property "Footprint" "10152803_00011LF:AMPHENOL_10152803-00011LF"
 			(at 49.53 52.07 0)
 			(effects
 				(font
