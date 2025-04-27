@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SMBJ33CA
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=1.1
+Released=2020-10-30 05:31:52
+Downloaded=2025-04-27 00:31:33
+3D=Y

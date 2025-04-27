@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NTTFS5C673NLTAG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "NTTFS5C673NLTAG" (!) = "", "NVTFS6H854NTAG", "Other", "863-NTTFS5C673NLTAG", "https://www.mouser.co.uk/ProductDetail/onsemi/NTTFS5C673NLTAG?qs=slMPpRTKD5r23pDctKfw6A%3D%3D", "Low RDS(on); Low Input Capacitance; Small Footprint (3.3x3.3 mm); RoHS Compliant", "https://www.onsemi.com/pub/Collateral/NTTFS5C673NL-D.PDF"
+END_PART
+
+END.

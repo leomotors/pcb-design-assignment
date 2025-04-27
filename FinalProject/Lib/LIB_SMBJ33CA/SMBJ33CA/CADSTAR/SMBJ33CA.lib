@@ -1,0 +1,16 @@
+.SMBJ33CA :1 ;Littelfuse SMBJ33CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA
+DIONM5436X261N
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SMBJ33CA
+~!Mouser Part Number (576-SMBJ33CA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ33CA?qs=JJML70Qc14vzMDBYQJ3rYw%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SMBJ33CA)
+~!Link Datasheet (https://www.arrow.com/en/products/smbj33ca/littelfuse)
+~!Height (2.61mm)
+~!3D_Model (SMBJ33CA)
+SMBJ33CA
+1.1!U 2.1!U 

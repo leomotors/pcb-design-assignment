@@ -1,0 +1,188 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "NTTFS5C673NLTAG"
+   (description "Low RDS(on); Low Input Capacitance; Small Footprint (3.3x3.3 mm); RoHS Compliant")
+   (family "TRX")
+   (package "NVTFS6H854NTAG")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/NTTFS5C673NL-D.PDF")
+   (attribute "Mouser Part Number" "863-NTTFS5C673NLTAG")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/NTTFS5C673NLTAG?qs=slMPpRTKD5r23pDctKfw6A%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "NTTFS5C673NLTAG")
+   (gate
+    (symbol "NTTFS5C673NLTAG")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D_1" 5 PS)
+    (pin "D_2" 6 PS)
+    (pin "D_3" 7 PS)
+    (pin "D_4" 8 PS)
+   )
+  )
+  (symbol "NTTFS5C673NLTAG"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "NVTFS6H854NTAG"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.525 1.525)
+      (pt 1.525 1.525)
+      (pt 1.525 -1.525)
+      (pt -1.525 -1.525)
+      (pt -1.525 1.525))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.23 2.265)
+      (pt 2.23 2.265)
+      (pt 2.23 -2.335)
+      (pt -2.23 -2.335)
+      (pt -2.23 2.265))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.525 -1.525)
+      (pt -1.525 -0.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.525 1.525)
+      (pt -1.525 0.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.525 1.525)
+      (pt 1.525 0.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.525 -1.525)
+      (pt 1.525 -0.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0.925 2)
+      (arc (pt 0.925 2.000) (pt 0.925 1.950) (pt 1.025 2.050) (start 180.0) (sweep 180.0))
+      (pt 1.025 2)
+      (arc (pt 1.025 2.000) (pt 0.925 1.950) (pt 1.025 2.050) (start 180.0) (sweep .0))
+      (pt 0.925 2))))
+   (leg 1 (pt 0.975 1.435) (padstack 0))
+   (leg 2 (pt 0.325 1.435) (padstack 0))
+   (leg 3 (pt -0.325 1.435) (padstack 0))
+   (leg 4 (pt -0.975 1.435) (padstack 0))
+   (leg 5 (pt -0.975 -1.600) (padstack 5))
+   (leg 6 (pt -0.325 -1.600) (padstack 6))
+   (leg 7 (pt 0.325 -1.600) (padstack 7))
+   (leg 8 (pt 0.975 -1.600) (padstack 8))
+   (leg 9 (pt 0.000 -0.450) (padstack 9))
+   (leg 10 (pt 1.458 0.000) (padstack 10))
+   (leg 11 (pt -1.458 0.000) (padstack 11))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.420 0.660 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.420 0.470 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.420 0.470 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.420 0.470 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.420 0.470 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 1.830 2.370 0 0 0.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 0.545 0.570 0 0 90.000))
+   )
+   (padstack 11
+    (plated false)
+    (pad (layer TCOP) (rectf 0.545 0.570 0 0 90.000))
+   )
+   (model "NTTFS5C673NLTAG.stp"
+    (euler 90 0 -90)
+    (offset 0 -0.03999999910593033 0)
+   )
+  )
+ )
+)

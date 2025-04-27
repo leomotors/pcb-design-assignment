@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTTFS5C673NLTAG
+D Low RDS(on); Low Input Capacitance; Small Footprint (3.3x3.3 mm); RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NTTFS5C673NL-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMBJ33CA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "SMBJ33CA" (!) = "", "DIONM5436X261N", "Diodes Moulded Non Polarised", "576-SMBJ33CA", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ33CA?qs=JJML70Qc14vzMDBYQJ3rYw%3D%3D", "Littelfuse SMBJ33CA, Bi-Directional TVS Diode, 600W, 2-Pin DO-214AA", "https://www.arrow.com/en/products/smbj33ca/littelfuse", "2.61 mm"
+END_PART
+
+END.
