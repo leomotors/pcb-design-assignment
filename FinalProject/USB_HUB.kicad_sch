@@ -4939,6 +4939,16 @@
 		)
 		(uuid "2540eda0-9e48-4f07-963b-cc44bf6fd360")
 	)
+	(label "USB_FB_1.1V"
+		(at 189.23 36.83 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "270cc3a0-0b8e-4c15-b1e8-6535d59ccf03")
+	)
 	(label "OVERCUR2"
 		(at 172.72 116.84 180)
 		(effects
@@ -4978,6 +4988,16 @@
 			(justify right bottom)
 		)
 		(uuid "cb12b85a-8d28-49d0-bbad-364b1e99cb54")
+	)
+	(label "USB_FB_3.3V"
+		(at 50.8 36.83 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d404550e-1d17-401e-9187-82025ebf4151")
 	)
 	(label "BATEN2"
 		(at 233.68 118.11 180)
